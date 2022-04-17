@@ -1,3 +1,3 @@
 # resourses
 pictures
-![](mmtikhan/resourses/Outcomes_vs_Goals.png)
+![]( resourses/Outcomes_vs_Goals.png )
